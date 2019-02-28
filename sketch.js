@@ -1,5 +1,8 @@
+let cnv;
+
 function setup(){
-    createCanvas(windowWidth,windowHeight);
+    cnv = createCanvas(windowWidth,windowHeight);
+    cnv.parent('mysketch'); // attaching it to ID: mysketch in HTML
 }
 
 function draw(){
