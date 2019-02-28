@@ -1,2 +1,2 @@
 Learned:
-Boostrap
+Bootstrap
